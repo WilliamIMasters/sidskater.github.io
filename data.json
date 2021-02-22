@@ -1,0 +1,10 @@
+{
+    "projects" : [
+        {
+            "name" : "Range Detective",
+            "description" : "Range detective is a top down shooter requiring fast reflexes and quick aiming. A variety of enemies and a fast increase in difficulty creates a challenging and fun shooter. To play use the wasd keys to control your cowboy and use the mouse to aim and shoot your six shooter at the bandits. Destroy all the barrels that the bandits are hiding in to stop them from appearing and collect all the golden nuggets to progress onto the next level making sure to avoid the all nasty cacti that get in the way as well as provide a painful prick to the player. Kill all bandits and barrels as possible to gain as many point as possible to get a chance at reaching the top score.",
+            "slides": "media/rangeDetective/slides/"
+        }
+
+    ]
+}
